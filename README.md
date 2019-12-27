@@ -25,6 +25,12 @@ Any computer capable of running Java is suitable. A Java IDE is also needed, I p
 - Large pac dots that will cause ghosts to run away and allows pacman to eat them
 - Position of cherry is randomized
 
+### Walkthrough
+
+<img src='walkthrough_pacman_3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ### Data Structures Used
 - 2D array to hold information about the map.
 - Linkedlist to hold the several ghosts.
